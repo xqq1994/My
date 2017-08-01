@@ -16,5 +16,6 @@ public class Test01 {
         System.out.println(112);
         System.out.println(112);
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
