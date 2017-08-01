@@ -11,7 +11,6 @@ public class Test01 {
         System.out.println(11111);
         System.out.println(11111);
         System.out.println();
-        System.out.println();
-        System.out.println("sdfsdfsdfsdfsdf");
+        System.out.println(112);
     }
 }
